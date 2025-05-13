@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1747098220964,
+  "timestamp": 1747100145115,
   "index": "/histaminer/index.html",
   "assetGroups": [
     {
@@ -29,12 +29,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/histaminer/favicon.png",
         "/histaminer/icons/icon-128x128.png",
         "/histaminer/icons/icon-144x144.png",
         "/histaminer/icons/icon-152x152.png",
         "/histaminer/icons/icon-192x192.png",
+        "/histaminer/icons/icon-256x256.png",
         "/histaminer/icons/icon-384x384.png",
+        "/histaminer/icons/icon-48x48.png",
         "/histaminer/icons/icon-512x512.png",
         "/histaminer/icons/icon-72x72.png",
         "/histaminer/icons/icon-96x96.png"
@@ -46,16 +47,17 @@
   "hashTable": {
     "/histaminer/chunk-DDNODEQ2.js": "b8e49456119f6e61dc170411519f61c1fa431fd2",
     "/histaminer/chunk-RVZSYVYV.js": "dcfe63697d0c6453400a989be9183cf56a2de65e",
-    "/histaminer/favicon.ico": "5114bf9e1753bc1b1464434da82947b832c6707b",
-    "/histaminer/favicon.png": "57fac28a41e0831c31b1494f44638f0167c03653",
-    "/histaminer/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/histaminer/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/histaminer/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/histaminer/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/histaminer/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/histaminer/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/histaminer/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/histaminer/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/histaminer/favicon.ico": "47ffc0a4d60746ffa1a100923d16b79f004cda06",
+    "/histaminer/icons/icon-128x128.png": "e5960e4a968583048dcd2ed0d16853d0732e2afd",
+    "/histaminer/icons/icon-144x144.png": "c76e5a6edde588faabb620c4bf441dc5b5967de5",
+    "/histaminer/icons/icon-152x152.png": "1198630f8dd0e2bc9449ddcac78db0645774b801",
+    "/histaminer/icons/icon-192x192.png": "67023dee54aed537e6767c1812ab032d6cbbdad2",
+    "/histaminer/icons/icon-256x256.png": "c1d82b31c5f7165285ee28a991e846b766d26898",
+    "/histaminer/icons/icon-384x384.png": "afcbadda36f9e450b1e881da4110892410d1b7e1",
+    "/histaminer/icons/icon-48x48.png": "3be0a8d9b3c770451393612e739866d14b1f5264",
+    "/histaminer/icons/icon-512x512.png": "34c9d3bda2679b896607ec8092857df402bd84f3",
+    "/histaminer/icons/icon-72x72.png": "065408800ec7622e7ab52b386c819557132548be",
+    "/histaminer/icons/icon-96x96.png": "ea2c86b0ca2f3d79035bdd2f9bab4313075c391b",
     "/histaminer/index.html": "278781ff2050fd7009643377d05aa121aa8fcba3",
     "/histaminer/main-JJNN6PZF.js": "352b97bf52f1e8b17e2fcc875fd2fab8c8460221",
     "/histaminer/manifest.webmanifest": "5a38c523fd1ecb37d3da8d03f05c0f1b8b0008bf",
