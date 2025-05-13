@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1747096783010,
-  "index": "/index.html",
+  "timestamp": 1747097108879,
+  "index": "/histaminer/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-EIJC4C43.js",
-        "/chunk-XYZNQMXL.js",
-        "/favicon.ico",
-        "/index.html",
-        "/main-4Q6UPKS4.js",
-        "/manifest.webmanifest",
-        "/styles-SAOM5U7N.css"
+        "/histaminer/chunk-EIJC4C43.js",
+        "/histaminer/chunk-XYZNQMXL.js",
+        "/histaminer/favicon.ico",
+        "/histaminer/index.html",
+        "/histaminer/main-4Q6UPKS4.js",
+        "/histaminer/manifest.webmanifest",
+        "/histaminer/styles-SAOM5U7N.css"
       ],
       "patterns": []
     },
@@ -29,37 +29,37 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.png",
-        "/icons/icon-128x128.png",
-        "/icons/icon-144x144.png",
-        "/icons/icon-152x152.png",
-        "/icons/icon-192x192.png",
-        "/icons/icon-384x384.png",
-        "/icons/icon-512x512.png",
-        "/icons/icon-72x72.png",
-        "/icons/icon-96x96.png"
+        "/histaminer/favicon.png",
+        "/histaminer/icons/icon-128x128.png",
+        "/histaminer/icons/icon-144x144.png",
+        "/histaminer/icons/icon-152x152.png",
+        "/histaminer/icons/icon-192x192.png",
+        "/histaminer/icons/icon-384x384.png",
+        "/histaminer/icons/icon-512x512.png",
+        "/histaminer/icons/icon-72x72.png",
+        "/histaminer/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/chunk-EIJC4C43.js": "72f34e2c9c4d534f45e641ac4bc88d21afe8b9f5",
-    "/chunk-XYZNQMXL.js": "06dec7d7626b606f6b6d9943efe8e76eb93e263c",
-    "/favicon.ico": "5114bf9e1753bc1b1464434da82947b832c6707b",
-    "/favicon.png": "57fac28a41e0831c31b1494f44638f0167c03653",
-    "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/index.html": "26be594ee6829de3c0b86c2e6fe3cd302c8d35bf",
-    "/main-4Q6UPKS4.js": "a28cdace29504f288579f9e96f2e4ee3bcb971fd",
-    "/manifest.webmanifest": "5a38c523fd1ecb37d3da8d03f05c0f1b8b0008bf",
-    "/styles-SAOM5U7N.css": "734c0031f0bc01113ca3f8f335c6fe0f2ac966f1"
+    "/histaminer/chunk-EIJC4C43.js": "72f34e2c9c4d534f45e641ac4bc88d21afe8b9f5",
+    "/histaminer/chunk-XYZNQMXL.js": "06dec7d7626b606f6b6d9943efe8e76eb93e263c",
+    "/histaminer/favicon.ico": "5114bf9e1753bc1b1464434da82947b832c6707b",
+    "/histaminer/favicon.png": "57fac28a41e0831c31b1494f44638f0167c03653",
+    "/histaminer/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/histaminer/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/histaminer/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/histaminer/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/histaminer/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/histaminer/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/histaminer/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/histaminer/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/histaminer/index.html": "437d061984b554bada372c71f84d08c3362d6b94",
+    "/histaminer/main-4Q6UPKS4.js": "a28cdace29504f288579f9e96f2e4ee3bcb971fd",
+    "/histaminer/manifest.webmanifest": "5a38c523fd1ecb37d3da8d03f05c0f1b8b0008bf",
+    "/histaminer/styles-SAOM5U7N.css": "734c0031f0bc01113ca3f8f335c6fe0f2ac966f1"
   },
   "navigationUrls": [
     {
