@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1747097108879,
+  "timestamp": 1747097423953,
   "index": "/histaminer/index.html",
   "assetGroups": [
     {
@@ -56,7 +56,7 @@
     "/histaminer/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/histaminer/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/histaminer/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/histaminer/index.html": "437d061984b554bada372c71f84d08c3362d6b94",
+    "/histaminer/index.html": "96db1e045fe3e3ec82a15d18e09600106a5628a9",
     "/histaminer/main-4Q6UPKS4.js": "a28cdace29504f288579f9e96f2e4ee3bcb971fd",
     "/histaminer/manifest.webmanifest": "5a38c523fd1ecb37d3da8d03f05c0f1b8b0008bf",
     "/histaminer/styles-SAOM5U7N.css": "734c0031f0bc01113ca3f8f335c6fe0f2ac966f1"
